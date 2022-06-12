@@ -1,4 +1,4 @@
-# Cryto App
+# Crypto App
 
 This is the app that you can see the global crypto stats info, with in-depth data about all cryptocurrencies and popular cryptocurrency news using React, redux, anti design and char.js. The data are fetching by two rapid API, which you can find in `https://rapidapi.com/hub`.
 
